@@ -2,8 +2,8 @@
 
 void main()
 {
-	int i = 0;
-	for (i = 10;)
+	int i = 5;
+	for (i = 8;)
 	printf("hola mundo")
 
 }
